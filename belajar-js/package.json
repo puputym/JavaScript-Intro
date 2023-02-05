@@ -1,0 +1,11 @@
+{
+  "name": "belajar",
+  "version": "1.0.0",
+  "description": "Belajar JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node intro.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
