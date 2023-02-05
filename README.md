@@ -49,4 +49,4 @@ Sebagai QA Engineer kalian ingin mengecek total quantity  dari bebarapa storageI
  
 Hint : Gunakan metode Pengulangan, Array dan Object keys (silakan cari referensi cara mendapatkan value dari json)
 
-#Jawaban tertera pada folder Tugas dengan name Soal1.js dan Soal2.js
+# Jawaban tertera pada folder Tugas dengan name Soal1.js dan Soal2.js
